@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/db2e43a4-cb68-4eeb-8655-4dd06506b7e3/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/SyncronusChatApplication",
+    "appService.deploySubpath": "server"
+}
